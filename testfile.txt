@@ -1,0 +1,425 @@
+Test case 0: kmw7v+uUMI2_V7$!c<{e&^W(T)kInCI4:>O|)'TT*+=W;cI~
+Expected Output:
+O
+T
+TT
+V
+W
+W
+c
+cI
+e
+kInCI
+kmw
+uUMI
+v
+
+Test case 1: 2,.)1Imi*F4]|"Pn4#%<6F{1L">Cse/Yb[.
+Expected Output:
+Cse
+F
+F
+Imi
+L
+Pn
+Yb
+
+Test case 2: T|R3&oW_z7J\I"w(nh12iJuTG{0q9NB]d|ngb/@I,+i4=d8K\
+Expected Output:
+I
+I
+J
+K
+NB
+R
+T
+d
+d
+i
+iJuTG
+ngb
+nh
+oW
+q
+w
+z
+
+Test case 3: I?(2Sr_*pbCs7GsM{=rI|#|J&`'JHAE5m^^<.YUG=4?z
+Expected Output:
+GsM
+I
+J
+JHAE
+Sr
+YUG
+m
+pbCs
+rI
+z
+
+Test case 4: }xnQAYhbr%WV&44*\e{S_cIF%`x(x<x*bw[-DRG%<|Y\
+Expected Output:
+DRG
+S
+WV
+Y
+bw
+cIF
+e
+x
+x
+x
+xnQAYhbr
+
+Test case 5: [3(MaJTZn<>>v2F>.?sL"/wW6Xa87Kjs~]&QW
+Expected Output:
+F
+Kjs
+MaJTZn
+QW
+Xa
+sL
+v
+wW
+
+Test case 6: R=kJ]HL{PDP}+b,}JUHlF}|1tWdqg,%KS\u?gO6e06
+Expected Output:
+HL
+JUHlF
+KS
+PDP
+R
+b
+e
+gO
+kJ
+tWdqg
+u
+
+Test case 7: (f]7}s}=q.#N?-Ad~$mU%b~c?KOj$wsE[F=7L)I4E|
+Expected Output:
+Ad
+E
+F
+I
+KOj
+L
+N
+b
+c
+f
+mU
+q
+s
+wsE
+
+Test case 8: G%m7_Y!6XEu8SSd6-Nct%{%|b/r{@Wl
+Expected Output:
+G
+Nct
+SSd
+Wl
+XEu
+Y
+b
+m
+r
+
+Test case 9: WWB3blW@IAIs'#(gQ*sez2'PO8D]XKikmiD63
+Expected Output:
+D
+IAIs
+PO
+WWB
+XKikmiD
+blW
+gQ
+sez
+
+Test case 10: GoDqP"|P).Lpu#NrM*T3kjm^`GWmD3HWlB6UNiK$
+Expected Output:
+GWmD
+GoDqP
+HWlB
+Lpu
+NrM
+P
+T
+UNiK
+kjm
+
+Test case 11: za2{Jp{OmkepW;}v}MTF46w98"nI9{5@tW,5rfEdu6!_N)x}HC
+Expected Output:
+HC
+Jp
+MTF
+N
+OmkepW
+nI
+rfEdu
+tW
+v
+w
+x
+za
+
+Test case 12: Z$p.5dsl1&:>/En|6g<3]%tADnL_ZV
+Expected Output:
+En
+Z
+ZV
+dsl
+g
+p
+tADnL
+
+Test case 13: !$%Dnm3Z1f>e$|zZ-[Nf_~oF8qu$vOK
+Expected Output:
+Dnm
+Nf
+Z
+e
+f
+oF
+qu
+vOK
+zZ
+
+Test case 14: F.La3a3to+xDh)&o~Bj?Su-c.qt|wzW&%Zv%7k;;[N
+Expected Output:
+Bj
+F
+La
+N
+Su
+Zv
+a
+c
+k
+o
+qt
+to
+wzW
+xDh
+
+Test case 15: #R&&DREm<({ZLsy{2d5gqu$[Tws:=tvF*!5d"S!_1!
+Expected Output:
+DREm
+R
+S
+Tws
+ZLsy
+d
+d
+gqu
+tvF
+
+Test case 16: cnSSGQIeHwi8J{'yw67=UY56{<A&\gM8lH$6s#}s
+Expected Output:
+A
+J
+UY
+cnSSGQIeHwi
+gM
+lH
+s
+s
+yw
+
+Test case 17: kdRgHnxYc)#&iQ3{sr]v:R(k3[?w%B{LA~bb81?P&`VC|K
+Expected Output:
+B
+K
+LA
+P
+R
+VC
+bb
+iQ
+k
+kdRgHnxYc
+sr
+v
+w
+
+Test case 18: 0Y]F#Y)(cz21/,<d#1xQ!^Vsk4;y%f-#b$HI]ZL!a*NF]l$a6+
+Expected Output:
+F
+HI
+NF
+Vsk
+Y
+Y
+ZL
+a
+a
+b
+cz
+d
+f
+l
+xQ
+y
+
+Test case 19: \_K=~YL[oG|E2IetqdVM3OQ/a;rWLsQcp?s
+Expected Output:
+E
+IetqdVM
+K
+OQ
+YL
+a
+oG
+rWLsQcp
+s
+
+Test case 20: |(=,Y6-K7*.D&W!)IqaD`e|B&9mwkZdf3ZJOfo>
+Expected Output:
+B
+D
+IqaD
+K
+W
+Y
+ZJOfo
+e
+mwkZdf
+
+Test case 21: _\n:l+M,l)+AV[zyuY@k1[G*}>r~W3U]UK(Vb?'<rj..wO'
+Expected Output:
+AV
+G
+M
+U
+UK
+Vb
+W
+k
+l
+l
+n
+r
+rj
+wO
+zyuY
+
+Test case 22: 1v\<>._\%9#_g:WPPOgcK<=X;F}nwyozFi{JY:
+Expected Output:
+F
+JY
+WPPOgcK
+X
+g
+nwyozFi
+v
+
+Test case 23: -whhq_O%v|_|ALw(I`A/@9Mw'}D7,I#--H/a@eV*,zRMc+.
+Expected Output:
+A
+ALw
+D
+H
+I
+I
+Mw
+O
+a
+eV
+v
+whhq
+zRMc
+
+Test case 24: P/Eu-rvYY0p)j~)#=nUxiNw?Av%1VM1]8Q>IgA)jY%8c7[
+Expected Output:
+Av
+Eu
+IgA
+P
+Q
+VM
+c
+j
+jY
+nUxiNw
+p
+rvYY
+
+Test case 25: J*<)\m%Y<$lml4n@hx9a=S[~7w+d|O*G_D:x=x
+Expected Output:
+D
+G
+J
+O
+S
+Y
+a
+d
+hx
+lml
+m
+n
+w
+x
+x
+
+Test case 26: o`Hi9Gpfm\$?_e+sAX}C5>b=r:QQ7c>nu*f5W&
+Expected Output:
+C
+Gpfm
+Hi
+QQ
+W
+b
+c
+e
+f
+nu
+o
+r
+sAX
+
+Test case 27: 0U$3C{o\b"Vs*<q5d+NcUW(;d!ls1;}__G!<LT(3DZg$
+Expected Output:
+C
+DZg
+G
+LT
+NcUW
+U
+Vs
+b
+d
+d
+ls
+o
+q
+
+Test case 28: gYF--B-[2SP7ra:$PaJ._))Z;.wlOC*R#)OWyfa7\n{\N$DfH
+Expected Output:
+B
+DfH
+N
+OWyfa
+PaJ
+R
+SP
+Z
+gYF
+n
+ra
+wlOC
+
+Test case 29: m?.W|$W*/+wSh|v,<l9c9Q~rP1:n.G
+Expected Output:
+G
+Q
+W
+W
+c
+l
+m
+n
+rP
+v
+wSh
+
